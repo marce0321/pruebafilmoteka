@@ -1,0 +1,10 @@
+* {
+    font-family: 'DM Sans', sans-serif;
+    font-family: 'Roboto';
+    margin: 0;
+    list-style: none;
+    text-decoration: none;
+}
+
+@import './utils/color';
+@import './components/header';
